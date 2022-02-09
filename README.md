@@ -1,6 +1,5 @@
 # Welcome to my data science method repository
-### i'll update what we learn in this semester :) 
-
+<p> What we learn? </p>
 > <b> 09 Februari 2022</b>
 > - Created Repository
 

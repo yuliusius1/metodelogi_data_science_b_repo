@@ -12,6 +12,10 @@ Yulius-672019014
 
 > <b> 23 Februari 2022</b>
 > - Data Understanding Visualization
+> > Pie Chart
+> > Bar Chart
+> > Scatter
+> > Hetmap
 > - First Assigment about Data Visualization 
 
 

@@ -12,7 +12,7 @@ Yulius-672019014
 
 > <b> 23 Februari 2022</b>
 > - Data Understanding Visualization
-
+> - First Assigment about Data Visualization 
 
 
 

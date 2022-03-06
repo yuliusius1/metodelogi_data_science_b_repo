@@ -21,5 +21,5 @@ Yulius-672019014
 > <b> 2 March 2022</b>
 > - Data Preparation
 > - Learn about Apply Map
-
+> - Self Learning Fiture Selection 
 

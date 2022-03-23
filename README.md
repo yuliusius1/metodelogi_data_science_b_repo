@@ -36,3 +36,7 @@ Yulius-672019014
 > <b> 16 March 2022</b>
 >
 > - TTS
+
+> <b> 23 March 2022</b>
+>
+> - Latihan Menggunakan Model Pengumpulan Data

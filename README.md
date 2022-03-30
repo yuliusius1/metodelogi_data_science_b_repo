@@ -40,3 +40,7 @@ Yulius-672019014
 > <b> 23 March 2022</b>
 >
 > - Latihan Menggunakan Model Pengumpulan Data
+
+> <b> 30 March 2022</b>
+>
+> - Clustering
